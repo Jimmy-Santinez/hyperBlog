@@ -1,3 +1,4 @@
 Hola Mundo!
 Soy Jaime Ramón
-Soy Web Developer
+Soy Web Developer con Nodejs, react, js y tailwind
+Me encanta la tecnologia
