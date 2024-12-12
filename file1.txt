@@ -2,3 +2,4 @@ Hola Mundo!
 Soy Jaime Ramón
 Soy Web Developer con Nodejs, react, js y tailwind y php
 Me encanta la tecnologia
+ESTO DE git rm --cached file1.txt es nuevo!
